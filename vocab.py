@@ -26,7 +26,19 @@ The state of being a candidate for a job, election, admission, award, etc.
 Examples:
 His candidacy for the job was rejected.
 ===========================================================================================================================================>
-
+“Convicted by a court of India” meaning in Telugu:
+Telugu Meaning:
+భారతదేశ కోర్టు ద్వారా నేరస్థుడిగా తేల్చబడటం
+or
+భారత కోర్టు శిక్ష విధించడం
+Simple English Meaning:
+A court in India officially decided that a person committed a crime and declared them guilty.
+Example:
+He was convicted by a court of India.
+→ అతను భారత కోర్టు ద్వారా నేరస్థుడిగా తేల్చబడ్డాడు.
+Easy Understanding:
+Police arrest చేయడం వేరు.
+కోర్టు “ఈ వ్యక్తి నిజంగా తప్పు చేశాడు” అని తీర్పు ఇవ్వడం = convicted.
 ===========================================================================================================================================>
 
 ===========================================================================================================================================>
